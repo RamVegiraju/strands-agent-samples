@@ -103,4 +103,8 @@ The application uses Python's built-in logging with:
 - Input sanitization implemented
 - Query length limits enforced
 - Error handling prevents information leakage
-- Logging includes privacy-conscious truncation 
+- Logging includes privacy-conscious truncation
+
+
+## Credits
+This example builds upon the resources shared in the official AWS Strands Samples Repository: https://github.com/strands-agents/samples/tree/main/01-tutorials/02-multi-agent-systems.
