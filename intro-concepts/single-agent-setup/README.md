@@ -1,0 +1,1 @@
+# [Strands Introduction](https://www.youtube.com/watch?v=nS1arlGhKOI&t=13s)
