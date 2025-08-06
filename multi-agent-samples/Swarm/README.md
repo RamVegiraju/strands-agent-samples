@@ -41,3 +41,9 @@ Swarm/
 ## Example Output
 
 The swarm will collaboratively plan a Tokyo trip, with agents automatically handing off tasks to create a complete itinerary including flights, hotels, and activities. 
+
+## Additional Credits/Resources
+Built off of the samples from the documentation and AWS Samples Repo below:
+- https://github.com/strands-agents/samples/blob/main/01-tutorials/02-multi-agent-systems/02-swarm-agent/swarm.ipynb
+- https://strandsagents.com/latest/documentation/docs/user-guide/concepts/multi-agent/swarm/#multi-modal-input-support
+- Swarm Implementation: https://github.com/strands-agents/sdk-python/blob/main/src/strands/multiagent/swarm.py
