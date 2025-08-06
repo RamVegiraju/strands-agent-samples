@@ -1,11 +1,5 @@
 # strands-agent-samples
-Examples working with the Strands-Agent framework provided by Amazon
-
-## Samples
-- Intro Concepts
-    - [Strands Agent Intro Setup](intro-concepts/single-agent-setup/)
-- Multi-Agent-Workflows
-    - [Agents as Tools](multi-agent-samples/Agents-As-Tools/)
+Examples working with the [Strands Agents](https://github.com/strands-agents/sdk-python) framework provided by Amazon
 
 ## YouTube Videos/Guides
 - [Strands Intro Video](https://www.youtube.com/watch?v=nS1arlGhKOI&t=13s)
